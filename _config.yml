@@ -1,1 +1,4 @@
-theme: jekyll-theme-modernist
+remote_theme: inded/Jekyll_modern-blog
+
+title: "Lizzy's Blog"
+description: "Welcome, I guess..."
