@@ -1,4 +1,9 @@
-remote_theme: inded/Jekyll_modern-blog
+remote_theme: janczizikow/sleek
+url: "https://lizainslie.github.io/"
 
 title: "Lizzy's Blog"
 description: "Welcome, I guess..."
+
+twitter_username: LizzyReborn
+github_username:  LizAinslie
+instagram_username: railrunner166
